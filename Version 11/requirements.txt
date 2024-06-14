@@ -1,0 +1,11 @@
+ipywidgets
+ipyfilechooser
+pandas
+nltk
+plotly
+matplotlib
+ipydatagrid
+bqplot
+spacy
+googletrans==4.0.0-rc1
+python-Levenshtein
